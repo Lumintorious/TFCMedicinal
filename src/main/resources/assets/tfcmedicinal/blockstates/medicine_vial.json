@@ -1,0 +1,17 @@
+{
+  "forge_marker": 1,
+  "variants": {
+    "inventory": {
+      "model": "forge:forgebucket",
+      "textures": {
+        "base": "tfcmedicinal:items/vial_empty",
+        "fluid": "tfcmedicinal:items/vial_full",
+        "cover": "tfcmedicinal:items/vial_empty"
+      },
+      "transform": "forge:default-item",
+      "custom": {
+        "flipGas": true
+      }
+    }
+  }
+}

@@ -1,0 +1,95 @@
+2020.10.23 16:39:35 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\lumin\Documents\MC Modding\TFCMedicinal' for client vscode.
+2020.10.23 16:39:36 INFO  time: initialize in 0.58s
+2020.10.23 16:39:39 INFO  no build target: using presentation compiler with only scala-library
+2020.10.23 16:39:39 WARN  no build target for: C:\Users\lumin\Documents\MC Modding\TFCMedicinal\src\main\scala\com\lumintorious\tfcmedicinal\ClientRegistrar.scala
+Oct 23, 2020 4:39:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Oct 23, 2020 4:39:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2020.10.23 16:39:47 WARN  no build target for: C:\Users\lumin\Documents\MC Modding\TFCMedicinal\src\main\scala\com\lumintorious\tfcmedicinal\ClientRegistrar.scala
+2020.10.23 16:39:49 INFO  running 'C:\Users\lumin\Documents\MC Modding\TFCMedicinal\gradlew.bat --console=plain --init-script C:\Users\lumin\AppData\Local\Temp\metals2193255988078254938\init-script.gradle bloopInstall'
+2020.10.23 16:39:50 INFO  To honour the JVM settings for this build a new JVM will be forked. Please consider using the daemon: https://docs.gradle.org/4.9/userguide/gradle_daemon.html.
+2020.10.23 16:39:53 INFO  Daemon will be stopped at the end of the build stopping after processing
+2020.10.23 16:39:56 INFO  Download https://repo.maven.apache.org/maven2/ch/epfl/scala/gradle-bloop_2.12/1.4.4-13-408f4d80/gradle-bloop_2.12-1.4.4-13-408f4d80.pom
+2020.10.23 16:39:56 INFO  Download https://repo.maven.apache.org/maven2/ch/epfl/scala/bloop-config_2.12/1.4.4-13-408f4d80/bloop-config_2.12-1.4.4-13-408f4d80.pom
+2020.10.23 16:39:56 INFO  Download https://repo.maven.apache.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_2.12/2.4.0/jsoniter-scala-core_2.12-2.4.0.jar
+2020.10.23 16:39:56 INFO  Download https://repo.maven.apache.org/maven2/org/scala-lang/scala-library/2.12.11/scala-library-2.12.11.jar
+2020.10.23 16:39:56 INFO  Download https://repo.maven.apache.org/maven2/ch/epfl/scala/bloop-config_2.12/1.4.4-13-408f4d80/bloop-config_2.12-1.4.4-13-408f4d80.jar
+2020.10.23 16:39:56 INFO  Download https://repo.maven.apache.org/maven2/ch/epfl/scala/gradle-bloop_2.12/1.4.4-13-408f4d80/gradle-bloop_2.12-1.4.4-13-408f4d80.jar
+2020.10.23 16:40:01 INFO  
+2020.10.23 16:40:01 INFO  > Configure project :
+2020.10.23 16:40:01 INFO  This mapping 'stable_39' was designed for MC 1.12! Use at your own peril.
+2020.10.23 16:40:01 INFO  #################################################
+2020.10.23 16:40:01 INFO           ForgeGradle 2.3-SNAPSHOT-6084129e        
+2020.10.23 16:40:01 INFO    https://github.com/MinecraftForge/ForgeGradle  
+2020.10.23 16:40:01 INFO  #################################################
+2020.10.23 16:40:01 INFO                   Powered by MCP                  
+2020.10.23 16:40:01 INFO               http://modcoderpack.com             
+2020.10.23 16:40:01 INFO       by: Searge, ProfMobius, R4wk, ZeuX          
+2020.10.23 16:40:01 INFO       Fesh0r, IngisKahn, bspkrs, LexManos         
+2020.10.23 16:40:01 INFO  #################################################
+2020.10.23 16:40:01 INFO  Version string 'dev' does not match SemVer specification 
+2020.10.23 16:40:01 INFO  You should try SemVer : http://semver.org/
+2020.10.23 16:40:01 INFO  
+2020.10.23 16:40:01 INFO  > Task :configureBloopInstall
+2020.10.23 16:40:01 INFO  Download https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9-sources.jar
+2020.10.23 16:40:02 INFO  Download https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9-sources.jar
+2020.10.23 16:40:02 INFO  > Task :bloopInstall
+2020.10.23 16:40:02 INFO  
+2020.10.23 16:40:02 INFO  BUILD SUCCESSFUL in 13s
+2020.10.23 16:40:02 INFO  2 actionable tasks: 2 executed
+2020.10.23 16:40:03 INFO  time: ran 'gradle bloopInstall' in 13s
+2020.10.23 16:40:02 INFO  build tool exit: 0
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 40544'...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.4-13-408f4d80...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading 1 projects from 'c:\Users\lumin\Documents\MC Modding\TFCMedicinal\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\Users\lumin\Documents\MC Modding\TFCMedicinal\.bloop\TFCMedicinal-api.json'
+[0m[32m[D][0m Missing analysis file for project 'TFCMedicinal-api'
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:40544...
+The server is listening for incoming connections at tcp://127.0.0.1:40544...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.10.23 16:40:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\lumin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2020.10.23 16:40:10 INFO  time: connected to build server in 7.19s
+2020.10.23 16:40:10 INFO  Connected to Build server v1.4.4-13-408f4d80
+2020.10.23 16:40:10 INFO  time: imported build in 0.12s
+2020.10.23 16:40:13 INFO  time: indexed workspace in 2.88s
+2020.10.23 16:40:13 WARN  no build target for: C:\Users\lumin\Documents\MC Modding\TFCMedicinal\src\main\scala\com\lumintorious\tfcmedicinal\ClientRegistrar.scala
+2020.10.23 16:42:04 WARN  no build target for: C:\Users\lumin\Documents\MC Modding\TFCMedicinal\src\main\scala\com\lumintorious\tfcmedicinal\ClientRegistrar.scala
+2020.10.23 16:42:13 WARN  code navigation does not work for the file 'C:\Users\lumin\Documents\MC Modding\TFCMedicinal\src\main\scala\com\lumintorious\tfcmedicinal\ClientRegistrar.scala' because it doesn't belong to a build target.
+2020.10.23 16:42:18 WARN  code navigation does not work for the file 'C:\Users\lumin\Documents\MC Modding\TFCMedicinal\src\main\scala\com\lumintorious\tfcmedicinal\ClientRegistrar.scala' because it doesn't belong to a build target.
+2020.10.23 16:42:27 WARN  code navigation does not work for the file 'C:\Users\lumin\Documents\MC Modding\TFCMedicinal\src\main\scala\com\lumintorious\tfcmedicinal\ClientRegistrar.scala' because it doesn't belong to a build target.
+2020.10.23 16:42:34 WARN  code navigation does not work for the file 'C:\Users\lumin\Documents\MC Modding\TFCMedicinal\src\main\scala\com\lumintorious\tfcmedicinal\ClientRegistrar.scala' because it doesn't belong to a build target.
+2020.10.23 16:42:52 INFO  shutting down Metals
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+2020.10.23 16:50:44 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\lumin\Documents\MC Modding\TFCMedicinal' for client vscode.
+2020.10.23 16:50:45 INFO  time: initialize in 0.45s
+2020.10.23 16:50:46 INFO  skipping build import with status 'Installed'
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 33423'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:33423...
+The server is listening for incoming connections at tcp://127.0.0.1:33423...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.10.23 16:50:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\lumin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2020.10.23 16:50:47 INFO  time: connected to build server in 1.22s
+2020.10.23 16:50:47 INFO  Connected to Build server v1.4.4-13-408f4d80
+2020.10.23 16:50:47 INFO  time: imported build in 0.1s
+2020.10.23 16:50:48 INFO  time: indexed workspace in 1.64s
+2020.10.23 16:50:48 WARN  no build target for: C:\Users\lumin\Documents\MC Modding\TFCMedicinal\src\main\scala\com\lumintorious\tfcmedicinal\ClientRegistrar.scala
+2020.10.23 16:50:49 INFO  no build target: using presentation compiler with only scala-library
+2020.10.23 16:50:49 WARN  no build target for: C:\Users\lumin\Documents\MC Modding\TFCMedicinal\src\main\scala\com\lumintorious\tfcmedicinal\ClientRegistrar.scala
+2020.10.23 16:51:01 WARN  no build target for: C:\Users\lumin\Documents\MC Modding\TFCMedicinal\src\main\scala\com\lumintorious\tfcmedicinal\ClientRegistrar.scala

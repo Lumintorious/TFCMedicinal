@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "tfcmedicinal:extract/herbal"
+    }
+  },
+  "result": {
+    "item": "tfcmedicinal:concentrate/herbal",
+    "count": 1
+  }
+}

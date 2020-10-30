@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " F",
+    "PB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:stick"
+    },
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "P": {
+      "item": "tfc:ceramics/fired/bowl"
+    }
+  },
+  "result": {
+    "item": "tfcmedicinal:mpestle",
+    "count": 1
+  }
+}

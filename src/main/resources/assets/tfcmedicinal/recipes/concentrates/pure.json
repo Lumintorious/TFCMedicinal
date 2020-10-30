@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "tfcmedicinal:extract/pure"
+    }
+  },
+  "result": {
+    "item": "tfcmedicinal:concentrate/pure",
+    "count": 1
+  }
+}

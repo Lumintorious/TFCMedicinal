@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B B",
+    " B ",
+    "BAB"
+  ],
+  "key": {
+    "B": {
+      "item": "tfc:fire_bricks"
+    },
+    "A": {
+      "item": "tfc:alabaster/raw/plain"
+    }
+  },
+  "result": {
+    "item": "tfcmedicinal:vial_heater",
+    "count": 1
+  }
+}

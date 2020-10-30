@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "tfcmedicinal:medicine_vial",
+    "count": 1
+  }
+}

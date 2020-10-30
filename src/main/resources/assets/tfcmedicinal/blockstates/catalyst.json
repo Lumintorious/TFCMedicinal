@@ -1,0 +1,17 @@
+{
+  "forge_marker": 1,
+  "variants": {
+    "inventory": {
+      "model": "forge:forgebucket",
+      "textures": {
+        "base": "tfcmedicinal:items/catalyst_empty",
+        "fluid": "tfcmedicinal:items/catalyst_full",
+        "cover": "tfcmedicinal:empty"
+      },
+      "transform": "forge:default-item",
+      "custom": {
+        "flipGas": true
+      }
+    }
+  }
+}

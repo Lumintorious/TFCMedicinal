@@ -1,0 +1,86 @@
+fluid.death_sickness_antidote=Death Sickness Antidote
+fluid.acuity_concoction=Acuity Concoction
+fluid.base_concoction=Concoction Base
+fluid.nourishing_concoction=Nourishing Concoction
+fluid.rejuvenating_concoction=Rejuvenating Concoction
+fluid.stomach_strength_concoction=Stomach Strength Concoction
+fluid.lung_strength_concoction=Lung Strength Concoction
+fluid.keen_sight_concoction=Keen Sight Concoction
+fluid.health_boost_concoction=Health Boost Concoction
+
+fluid.cooling_panacea=Cooling Panacea
+fluid.warming_panacea=Warming Panacea
+fluid.cooling_panacea.description=Cools you down for a while
+fluid.warming_panacea.description=Warms you up for a while
+
+fluid.base_concoction.description=Catalysts can be infused into this to drink
+fluid.death_sickness_antidote.description=Cures your death sickness
+fluid.acuity_concoction.description=If you die, you and your items won't be lost
+fluid.catalyst.description=Base catalyst for medicine
+fluid.nourishing_concoction.description=Replenishes your nutrition stats to half
+fluid.rejuvenating_concoction.description=Your wounds heal faster for a brief period
+fluid.stomach_strength_concoction.description=Protects you from parasites and nausea
+fluid.lung_strength_concoction.description=You can hold your breath for longer, swim faster and be more efficient in mines
+fluid.keen_sight_concoction.description=You can see in the darkness
+fluid.health_boost_concoction.description=Your maximum health is increased
+
+tooltip.extract_herbal=Has stress relief and relaxation properties
+tooltip.extract_lively=Has healing properties
+tooltip.extract_earthy=Rich in vitamins and minerals
+tooltip.extract_pure=Binds catalysts without altering their structure
+tooltip.extract_focused=Has mental boosting properties
+tooltip.extract_energetic=Has energizing properties
+tooltip.extract_fragrant=Has a strong fragrance, also strengthens the senses
+
+tooltip.boil_catalyst.description=Infuse into a base concoction to drink
+tooltip.base_concoction.description=Infuse some salt water with a fermented spider eye to give it special absorption properties.
+
+item.tfcmedicinal.vial.name=Vial
+item.tfcmedicinal.vial_full.name=Vial of %s
+item.tfcmedicinal.catalyst.name=Catalyst
+item.tfcmedicinal.catalyst_full.name=%s Catalyst
+item.tfcmedicinal:mpestle.name=Mortar and Pestle
+
+tile.tfcmedicinal:vial_heater.name=Medicinal Infuser
+
+effect.tfcmedicinal.acuity.name=Acuity
+effect.tfcmedicinal.death_sickness.name=Death Sickness
+effect.tfcmedicinal.strong_stomach.name=Strong Stomach
+effect.tfcmedicinal.strong_lungs.name=Strong Lungs
+
+item.tfcmedicinal:extract/herbal.name=Herbal Extract
+item.tfcmedicinal:extract/lively.name=Lively Extract
+item.tfcmedicinal:extract/earthy.name=Nourishing Extract
+item.tfcmedicinal:extract/pure.name=Pure Extract
+item.tfcmedicinal:extract/energetic.name=Energetic Extract
+item.tfcmedicinal:extract/focused.name=Focused Extract
+item.tfcmedicinal:extract/fragrant.name=Fragrant Extract
+
+item.tfcmedicinal:concentrate/herbal.name=Herbal Concentrate
+item.tfcmedicinal:concentrate/lively.name=Lively Concentrate
+item.tfcmedicinal:concentrate/earthy.name=Nourishing Concentrate
+item.tfcmedicinal:concentrate/pure.name=Pure Concentrate
+item.tfcmedicinal:concentrate/energetic.name=Energetic Concentrate
+item.tfcmedicinal:concentrate/focused.name=Focused Concentrate
+item.tfcmedicinal:concentrate/fragrant.name=Fragrant Concentrate
+
+
+//Status messages
+quote.parasites=Your stomach doesn't feel so good
+quote.awful=You wake up feeling awful
+quote.location=This location is unfamiliar
+
+quote.amnesia=You can't recall anything
+quote.no_amnesia=You know where you are and where your items are
+
+quote.acuity=Your memory feels stronger
+quote.nourished=You feel healthy again
+quote.rejuvenated=Your pain is going away
+quote.antidote=Your senses start coming back
+quote.stomach=Your stomach feels stronger
+quote.lungs=Your lungs feel stronger
+quote.sight=Your sight feels stronger
+quote.health_boost=You feel empowered
+
+quote.warm=You feel warmer
+quote.cool=You feel cooler
